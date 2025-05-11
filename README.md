@@ -47,8 +47,14 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/user-attachments/assets/c2628f30-92d0-4449-a029-e540c5eae42a)
+
+![image](https://github.com/user-attachments/assets/6b81f391-9d16-400b-b559-b66ef5742e93)
+
+
+
+### Name: SRUTHI A
+### Register Number:212224240162
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
